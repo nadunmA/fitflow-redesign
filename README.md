@@ -42,7 +42,7 @@ The recommended technology stack for FitFlow is React Native for the frontend, N
 
 The high-level architecture diagram is available in the `docs` folder.
 
-![FitFlow High-Level Architecture](docs/architecture-diagram.png)
+![FitFlow High-Level Architecture](docs/architecture-diagram.jpg)
 
 ## Architecture Decision Record (ADR)
 
